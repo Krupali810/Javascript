@@ -87,7 +87,7 @@ function Dinosaur(dinoData) {
 }
 
 // Human Functional Constructor
-function Human(name, feet, inches, weight, dietßß) {
+function Human(name, feet, inches, weight, diet) {
   this.name = name;
   this.feet = feet;
   this.inches = inches;
